@@ -13,7 +13,7 @@ https://budget-tracker-19.herokuapp.com/
 https://github.com/designurhappy/budget-tracker.git
 
 
-![ScreenShot](./budget-tracker.jpg)
+![ScreenShot](./budget-tracker.JPG)
 
  
 ## Installation

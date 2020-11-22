@@ -4,7 +4,17 @@ This is an application allowing the user to track withdrawals and deposits with 
 
 * When the user inputs an expense or deposit they will receive a notification that they have added an expense or deposit
 * When the user reestablishes an internet connection the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
-  
+
+## URL of Deployed Link in Heroku:
+https://budget-tracker-19.herokuapp.com/ 
+
+
+## GitHub Respository
+https://github.com/designurhappy/budget-tracker.git
+
+
+![ScreenShot](./budget-tracker.jpg)
+
  
 ## Installation
 The following commands should be run to install dependencies: 
@@ -16,8 +26,6 @@ The following commands should be run to install dependencies:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## GitHub Respository
-https://github.com/designurhappy/budget-tracker.git
 
 
 ## Questions

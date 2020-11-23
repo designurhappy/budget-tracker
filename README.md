@@ -9,7 +9,7 @@ This is an application allowing the user to track withdrawals and deposits with 
 https://budget-tracker-19.herokuapp.com/ 
 
 
-## GitHub Respository
+## GitHub Repository
 https://github.com/designurhappy/budget-tracker.git
 
 

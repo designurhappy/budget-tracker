@@ -2,7 +2,7 @@
     "name": "Budget Tracker",
     "short_name": "Budget",
     "description": "An app that allows you to track your withdrawals and deposits with our without internet access.",
-    "background_color": "#01579b",
+    "background_color": "#019b61",
     "theme_color": "#ffffff",
     "start_url": "/",
     "display": "standalone",
